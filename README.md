@@ -1,7 +1,7 @@
 
 # Administrador de Tareas y Proyectos
 
-¡Bienvenido al Administrador de Tareas y Proyectos! Este proyecto es el más avanzado del curso y utiliza el popular MERN stack (MongoDB, Express, React y Node.js). Además, incorpora una variedad de tecnologías y características avanzadas para ofrecer una experiencia completa y robusta.
+¡Bienvenido al Administrador de Tareas y Proyectos! Este proyecto utiliza el popular MERN stack (MongoDB, Express, React y Node.js). Además, incorpora una variedad de tecnologías y características avanzadas para ofrecer una experiencia completa y robusta.
 
 ## Características
 
@@ -76,4 +76,4 @@ Para cualquier duda o consulta, puedes contactarme a través de [mi correo elect
 
 ---
 
-¡Gracias por visitar el proyecto! Espero que encuentres útil esta aplicación y aprendas mucho en el proceso.
+¡Gracias por visitar el proyecto! 
